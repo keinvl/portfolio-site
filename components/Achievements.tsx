@@ -53,7 +53,7 @@ export default function Achievements() {
           </div>
 
           {/* Premium Tab Controls */}
-          <div className="flex bg-brand-cream dark:bg-brand-dark/60 p-1 rounded-xl border border-brand-rose/40 dark:border-brand-slate/40 self-start md:self-end shadow-sm">
+          <div className="flex overflow-x-auto no-scrollbar bg-brand-cream dark:bg-brand-dark/60 p-1 rounded-xl border border-brand-rose/40 dark:border-brand-slate/40 self-start md:self-end shadow-sm">
             {categories.map((cat) => {
               const isSelected = activeCategory === cat;
               return (
