@@ -267,7 +267,7 @@ export default function Skills() {
           Tools I Work With
         </h2>
         <p className="text-xs text-brand-slate/70 dark:text-brand-rose font-mono mt-2 font-bold uppercase tracking-wider leading-relaxed">
-          Endless visual carousel. Hover cards to pause cycle.
+          A curated selection of technologies and tools I actively use to build, secure, and optimize applications, systems, and networks.
         </p>
       </div>
 
